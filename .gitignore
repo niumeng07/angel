@@ -28,7 +28,6 @@ angel-ps/psf/log/
 angel-ps/examples/log/
 angel-ps/mllib/log/
 angel-ps/log/
-dist/target/
 spark-on-angel/core/target/
 spark-on-angel/examples/target/
 spark-on-angel/mllib/target/
